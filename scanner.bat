@@ -82,4 +82,4 @@ echo defrag all volumes in hard disk
 
 pause 
 
-defrag /D /H /V
+defrag.exe /D /H /V
